@@ -1,0 +1,290 @@
+{
+  "source_image": "a_detailed_high_resolution_fantasy_sci_fi_game_bo.png",
+  "source_size": [
+    1536,
+    1024
+  ],
+  "note": "Assets are cropped from the flattened reference image. Most crops retain their original surrounding pixels/background; they are not clean alpha cutouts.",
+  "assets": [
+    {
+      "file": "opponent_slot_1_attack.png",
+      "category": "Opponent Zone",
+      "size": [
+        182,
+        176
+      ]
+    },
+    {
+      "file": "opponent_slot_2_heal.png",
+      "category": "Opponent Zone",
+      "size": [
+        179,
+        176
+      ]
+    },
+    {
+      "file": "opponent_slot_3_energy.png",
+      "category": "Opponent Zone",
+      "size": [
+        179,
+        176
+      ]
+    },
+    {
+      "file": "opponent_slot_4_shield.png",
+      "category": "Opponent Zone",
+      "size": [
+        181,
+        176
+      ]
+    },
+    {
+      "file": "opponent_slot_5_extra.png",
+      "category": "Opponent Zone",
+      "size": [
+        175,
+        176
+      ]
+    },
+    {
+      "file": "player_slot_1_attack.png",
+      "category": "Player Zone",
+      "size": [
+        184,
+        216
+      ]
+    },
+    {
+      "file": "player_slot_2_heal.png",
+      "category": "Player Zone",
+      "size": [
+        192,
+        216
+      ]
+    },
+    {
+      "file": "player_slot_3_energy.png",
+      "category": "Player Zone",
+      "size": [
+        196,
+        216
+      ]
+    },
+    {
+      "file": "player_slot_4_shield.png",
+      "category": "Player Zone",
+      "size": [
+        199,
+        216
+      ]
+    },
+    {
+      "file": "player_slot_5_extra.png",
+      "category": "Player Zone",
+      "size": [
+        214,
+        216
+      ]
+    },
+    {
+      "file": "central_card_back_r1_c1.png",
+      "category": "Central Zone",
+      "size": [
+        138,
+        112
+      ]
+    },
+    {
+      "file": "central_card_back_r1_c2.png",
+      "category": "Central Zone",
+      "size": [
+        140,
+        112
+      ]
+    },
+    {
+      "file": "central_card_back_r1_c3.png",
+      "category": "Central Zone",
+      "size": [
+        140,
+        112
+      ]
+    },
+    {
+      "file": "central_card_back_r1_c4.png",
+      "category": "Central Zone",
+      "size": [
+        142,
+        112
+      ]
+    },
+    {
+      "file": "central_card_back_r2_c1.png",
+      "category": "Central Zone",
+      "size": [
+        138,
+        121
+      ]
+    },
+    {
+      "file": "central_card_back_r2_c2.png",
+      "category": "Central Zone",
+      "size": [
+        140,
+        121
+      ]
+    },
+    {
+      "file": "central_card_back_r2_c3.png",
+      "category": "Central Zone",
+      "size": [
+        140,
+        121
+      ]
+    },
+    {
+      "file": "central_card_back_r2_c4.png",
+      "category": "Central Zone",
+      "size": [
+        142,
+        121
+      ]
+    },
+    {
+      "file": "central_card_back_r3_c1.png",
+      "category": "Central Zone",
+      "size": [
+        138,
+        115
+      ]
+    },
+    {
+      "file": "central_card_back_r3_c2.png",
+      "category": "Central Zone",
+      "size": [
+        140,
+        115
+      ]
+    },
+    {
+      "file": "central_card_back_r3_c3.png",
+      "category": "Central Zone",
+      "size": [
+        140,
+        115
+      ]
+    },
+    {
+      "file": "central_card_back_r3_c4.png",
+      "category": "Central Zone",
+      "size": [
+        142,
+        115
+      ]
+    },
+    {
+      "file": "central_card_back_r4_c1.png",
+      "category": "Central Zone",
+      "size": [
+        138,
+        118
+      ]
+    },
+    {
+      "file": "central_card_back_r4_c2.png",
+      "category": "Central Zone",
+      "size": [
+        140,
+        118
+      ]
+    },
+    {
+      "file": "central_card_back_r4_c3.png",
+      "category": "Central Zone",
+      "size": [
+        140,
+        118
+      ]
+    },
+    {
+      "file": "central_card_back_r4_c4.png",
+      "category": "Central Zone",
+      "size": [
+        142,
+        118
+      ]
+    },
+    {
+      "file": "status_hp_left.png",
+      "category": "Status UI",
+      "size": [
+        124,
+        325
+      ]
+    },
+    {
+      "file": "status_energy_left.png",
+      "category": "Status UI",
+      "size": [
+        128,
+        302
+      ]
+    },
+    {
+      "file": "status_hp_right.png",
+      "category": "Status UI",
+      "size": [
+        126,
+        325
+      ]
+    },
+    {
+      "file": "status_energy_right.png",
+      "category": "Status UI",
+      "size": [
+        132,
+        302
+      ]
+    },
+    {
+      "file": "button_end_turn.png",
+      "category": "Buttons",
+      "size": [
+        212,
+        193
+      ]
+    },
+    {
+      "file": "decoration_top_left_crystals.png",
+      "category": "Decorations",
+      "size": [
+        320,
+        250
+      ]
+    },
+    {
+      "file": "decoration_top_right_crystals.png",
+      "category": "Decorations",
+      "size": [
+        326,
+        250
+      ]
+    },
+    {
+      "file": "decoration_bottom_left_crystals.png",
+      "category": "Decorations",
+      "size": [
+        290,
+        284
+      ]
+    },
+    {
+      "file": "decoration_bottom_right_crystals.png",
+      "category": "Decorations",
+      "size": [
+        291,
+        284
+      ]
+    }
+  ]
+}
